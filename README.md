@@ -1,0 +1,1 @@
+Created a RF and SVM model that takes the dataset of Disadvantaged Communities and makes predictions on what communities may need aid from the government. The RF model has an accuracy of 94% while the SVM model has an accuracy of 85%.
